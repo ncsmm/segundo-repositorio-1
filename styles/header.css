@@ -22,7 +22,6 @@
 }
 
 .container__imagem {
-    width: 10%;
     padding: 1em;
 }
 
@@ -34,11 +33,11 @@
     width: 60vw;
 }
 
-.container__menu:checked~.cabecalho-lista {
+.container__botao:checked~.cabecalho-lista {
     display: block;
 }
 
-.container__menu {
+.container__botao {
     display: none;
 }
 
