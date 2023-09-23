@@ -35,7 +35,7 @@
 
 .cabecalho-lista {
     display: none;
-    background-color: var(--branco);
+    background-color: var(--amarelo);
     position: absolute;
     top: 100%;
     width: 50vw;
