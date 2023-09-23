@@ -35,7 +35,7 @@
 
 .cabecalho-lista {
     display: none;
-    background-color: var(--amarelo);
+    background-color: var(--cor-de-fundo);
     position: absolute;
     top: 100%;
     width: 50vw;
@@ -59,7 +59,12 @@
 }
 
 .menu__lista-item{
+    /*background: var(--azul-degrade);*/
     color: var(--azul);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
 }
 
 @media screen and (min-width: 1024px) {
