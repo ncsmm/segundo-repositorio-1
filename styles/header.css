@@ -1,7 +1,7 @@
 .cabecalho {
     display: flex;
     justify-content: space-between;
-    background-color: var(--branco);
+    background-color: var(--cor-principal);
     position: relative;
     align-items: center;
 }
