@@ -59,7 +59,7 @@
 }
 
 .menu__lista-item{
-    /*background: var(--azul-degrade);*/
+    background: var(--cor-principal);
     color: var(--azul);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
