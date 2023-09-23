@@ -81,4 +81,8 @@
     .cabecalho__favorito{
         display: none;
     }
+
+    .container-titulo{
+        display: block;
+    }
 }
