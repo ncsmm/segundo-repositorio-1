@@ -57,6 +57,10 @@
     padding: 1em;
 }
 
+.container-titulo{
+    display: none;
+}
+
 .menu__lista-item{
     background: var(--cor-principal);
     color: var(--azul);
