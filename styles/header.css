@@ -95,21 +95,16 @@
         display: none;
     }
 
-    .container-titulo{
-        display: block;
-    }
-
     .opcoes{
         display: flex;
     }
 
     .opcoes__item{
-        
         padding: 0 1em;
         text-transform: uppercase;
     }
 
-    .opcoes__item{
+    .opcoes__link{
         text-decoration: none;
     }
 
@@ -117,4 +112,6 @@
         display: block;
         width: auto;
     }
+
+   
 }
