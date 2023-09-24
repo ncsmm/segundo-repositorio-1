@@ -51,6 +51,7 @@ h1 {
 }
 
 .apresentacao-titulo{
+    text-align: center;
     font-family: var(--fonte-principal);
     font-weight: 400;
     font-size: 24px;
