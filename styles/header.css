@@ -49,8 +49,9 @@
 }
 
 .cabecacalho-lista-titulo{
-    color: var(--amarelo);
+    color: var(--preto);
     font-weight: 700;
+    text-transform: uppercase;
 }
 
 .cabecalho-lista-item{
