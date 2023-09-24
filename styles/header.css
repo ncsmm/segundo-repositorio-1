@@ -108,7 +108,7 @@
         text-decoration: none;
     }
 
-    .opcoes__botao:checked ~.lista-menu{
+    .opcoes__botao:checked ~.cabecalho-lista{
         display: block;
         width: auto;
     }
