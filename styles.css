@@ -60,10 +60,9 @@ h1 {
 .icones{
     display: flex;
     justify-content: center;
-    padding: 0 12px 0 12px;
 }
 
 .icon-redes{
     width: 24px;
-    padding: 4px 8px;
+    padding: 4px 20px;
 }
