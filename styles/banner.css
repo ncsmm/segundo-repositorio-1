@@ -11,6 +11,7 @@
 }
 
 .banner__texto {
+    font-family: var(--fonte-secundaria);
     font-weight: 500;
     margin: 1em 0;
 }
