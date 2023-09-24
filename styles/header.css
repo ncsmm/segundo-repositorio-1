@@ -107,6 +107,7 @@
 
     .opcoes__link{
         text-decoration: none;
+        color: var(--branco);
     }
 
     .opcoes__botao:checked ~.cabecalho-lista{
