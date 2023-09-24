@@ -50,6 +50,12 @@ h1 {
     padding: 16px 0;
 }
 
+.apresentacao-titulo{
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 24px;
+}
+
 .icon-redes{
     width: 24px;
     padding: 4px 8px;
