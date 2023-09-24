@@ -52,17 +52,18 @@
 
 .descricao__titulo-livro {
     color: var(--azul);
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 700;
     margin: 0.5em 0;
 }
 
 .descricao__texto {
-    font-size: 14px;
+    font-family: var(--fonte-secundaria);
+    font-size: 13px;
 }
 
 .descricao__imagem{
-    width: 50%;
+    width: 60%;
 }
 
 .botoes__item {
