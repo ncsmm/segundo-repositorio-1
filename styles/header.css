@@ -98,4 +98,8 @@
     .container-titulo{
         display: block;
     }
+
+    .opcoes{
+        display: flex;
+    }
 }
