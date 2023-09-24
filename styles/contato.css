@@ -1,6 +1,7 @@
 .contato {
-    background-color: var(--branco);
+    background-color: var(--cor-de-fundo);
     padding: 1em;
+    text-align: center;
 }
 
 .contato__titulo,
