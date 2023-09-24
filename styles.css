@@ -57,6 +57,11 @@ h1 {
     font-size: 24px;
 }
 
+.icones{
+    display: flex;
+    justify-content: center;
+}
+
 .icon-redes{
     width: 24px;
     padding: 4px 8px;
