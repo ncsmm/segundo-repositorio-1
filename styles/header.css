@@ -49,7 +49,8 @@
 }
 
 .cabecacalho-lista-titulo{
-    color: var(--cor-principal);
+    color: var(--amarelo);
+    font-weight: 700;
 }
 
 .cabecalho-lista-item{
@@ -70,10 +71,6 @@
     text-transform: uppercase;
 }
 
-.opcoes__item{
-    color: var(--amarelo);
-    font-weight: 700;
-}
 
 .opcoes {
     display: none;
