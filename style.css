@@ -1,4 +1,5 @@
 @import url(/styles/header.css);
+@import url(/styles/banner.css);
 
 :root{
     --cor-de-fundo: #EBECEE;
@@ -8,6 +9,7 @@
     --roxo: #9949B4;
     --amarelo: #F1F10E;
     --azul: #3d89ec;
+    --azul-degrade: linear-gradient(#262597,#16CFF8);;
     --fonte-principal: "Roboto";
     --fonte-secundaria: "Prompt";
 }
