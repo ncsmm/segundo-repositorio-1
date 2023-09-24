@@ -102,6 +102,7 @@
     .opcoes__item{
         padding: 0 1em;
         text-transform: uppercase;
+        color: var(--branco);
     }
 
     .opcoes__link{
