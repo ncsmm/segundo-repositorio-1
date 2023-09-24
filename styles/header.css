@@ -49,12 +49,14 @@
 }
 
 .cabecacalho-lista-titulo{
+    padding: 1em;
     color: var(--preto);
     font-weight: 700;
     text-transform: uppercase;
 }
 
 .cabecalho-lista-item{
+    padding: 1em;
     color: var(--azul);
     padding: 1em;
 }
